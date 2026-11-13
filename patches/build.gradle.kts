@@ -1,12 +1,12 @@
-group = "app.template"
+group = "app.dorfandiy.ironfox"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "IronFox MD3 patches"
+        description = "Material 3 interface patches for IronFox"
+        source = "git@github.com:dorfandiysoftware-glitch/ironfox-md3-patches.git"
+        author = "Dorfik"
         contact = "na"
         website = "na"
         license = "GPLv3"

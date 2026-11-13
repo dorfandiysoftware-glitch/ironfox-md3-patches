@@ -4,15 +4,17 @@ Template repository for Morphe Patches.
 
 ## ❓ About
 
-Patches for apps I like.
+Material 3 interface patches for [IronFox](https://github.com/ironfox-oss/IronFox) (`org.ironfoxoss.ironfox`).
+
+First stage: **Material 3 settings** (tonal rounded cards, primary section titles, no dividers). More screens will follow.
 
 <!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/xyz-user/xyz-patches
+Click the button below, or manually add this repo url to Morphe Manager: https://github.com/dorfandiysoftware-glitch/ironfox-md3-patches
 
-<a href="https://morphe.software/add-source?github=xyz-user/xyz-patches">
+<a href="https://morphe.software/add-source?github=dorfandiysoftware-glitch/ironfox-md3-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
